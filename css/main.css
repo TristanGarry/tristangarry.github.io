@@ -1,0 +1,40 @@
+body {
+  background-color: rgb(250, 250, 240);
+  font-family: 'Source Sans Pro', Helvetica, sans-serif;
+  font-weight: 300;
+  font-size: 100%;
+  line-height: 1.6;
+}
+
+.title-info {
+  text-align: center;
+  max-width: 80em;
+  margin: 1em auto;
+  padding: 0.5em;
+}
+.info--hed {
+  font-family: 'Alegreya', Georgia, serif;
+  font-size: 3.2em;
+  color: #343434;
+  
+}
+.info--dek {
+  font-size: 1.4em;
+  color: #676767;
+}
+
+.info--coming {
+  margin-top: 4em;
+  color: #9a9a9a;
+}
+
+a {
+  color: #343434;
+  font-size: 2.6em;
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: rgb(207, 207, 197)
+}
+
