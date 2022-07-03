@@ -1,3 +1,3 @@
 # personalwebsite
 
-This is a temporary landing page for my website while I figure out how I want to build it.
+This is a website that I will probably just use to park my domain.
